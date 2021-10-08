@@ -23,3 +23,4 @@ app.use('/', route);
 server.listen(port);
 console.log('API rodando na porta ' + port);
 
+function nor
